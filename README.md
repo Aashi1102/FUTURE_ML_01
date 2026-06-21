@@ -135,13 +135,13 @@ FUTURE_ML_01
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/sales-forecasting-ml.git
+git clone https://github.com/Aashi1102/FUTURE_ML_01.git
 ```
 
 ### Navigate to the Project Directory
 
 ```bash
-cd sales-forecasting-ml
+cd FUTURE_ML_01
 ```
 
 ### Create a Virtual Environment (Optional)
