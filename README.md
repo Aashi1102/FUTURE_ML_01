@@ -130,6 +130,60 @@ FUTURE_ML_01
 └── README.md
 ```
 
+## ▶️ Installation & Setup
+
+### Clone the Repository
+
+```bash
+git clone https://github.com/your-username/sales-forecasting-ml.git
+```
+
+### Navigate to the Project Directory
+
+```bash
+cd sales-forecasting-ml
+```
+
+### Create a Virtual Environment (Optional)
+
+```bash
+python -m venv venv
+```
+
+Activate the environment:
+
+**Windows**
+
+```bash
+venv\Scripts\activate
+```
+
+**Mac/Linux**
+
+```bash
+source venv/bin/activate
+```
+
+### Install Dependencies
+
+```bash
+pip install -r requirements.txt
+```
+
+### Run the Jupyter Notebook
+
+```bash
+jupyter notebook
+```
+
+Open:
+
+```text
+Sales_forecasting.ipynb
+```
+
+and run all cells to reproduce the analysis, model training, and forecasting results.
+
 ---
 
 ## 🔮 Future Improvements
@@ -156,4 +210,17 @@ LinkedIn:https://www.linkedin.com/feed/update/urn:li:activity:747442107034389299
 
 ## ⭐ Acknowledgement
 
-This project was developed as part of the **Future Interns Machine Learning Internship Program** to demonstrate practical application of Machine Learning and NLP techniques in customer support automation.
+This project was developed as part of the **Future Interns Machine Learning Internship Program**.
+
+The objective of this task was to apply Machine Learning techniques to real-world business data and build a predictive sales forecasting system capable of estimating future demand based on historical sales trends.
+
+Through this project, I gained hands-on experience in:
+
+* Data Cleaning and Preprocessing
+* Exploratory Data Analysis (EDA)
+* Feature Engineering
+* Machine Learning Model Development
+* Model Evaluation and Validation
+* Business Forecasting and Data Visualization
+
+I would like to thank **Future Interns** for providing the opportunity to work on practical Machine Learning projects and enhance my skills in predictive analytics and data-driven decision making.
