@@ -143,8 +143,17 @@ FUTURE_ML_01
 
 ## 👨‍💻 Author
 
+
 **Aashi Tomar**
 
-Machine Learning Enthusiast | AI & ML Learner
+Machine Learning Enthusiast | AI & ML Student
 
-Project completed as part of the **Future Interns Machine Learning Internship Program**.
+Future Interns – Machine Learning Internship
+
+LinkedIn:https://www.linkedin.com/feed/update/urn:li:activity:7474421070343892992/
+
+---
+
+## ⭐ Acknowledgement
+
+This project was developed as part of the **Future Interns Machine Learning Internship Program** to demonstrate practical application of Machine Learning and NLP techniques in customer support automation.
